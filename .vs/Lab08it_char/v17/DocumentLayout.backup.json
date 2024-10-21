@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDC097D-80E7-433E-8E8B-C55AB6CC0C4E}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EDC097D-80E7-433E-8E8B-C55AB6CC0C4E}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C254069B-0743-4470-B3B6-5EB708BBF089}|Lab08it_char\\Lab08it_char.vcxproj|C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\Lab08it_char\\Lab08it_char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C254069B-0743-4470-B3B6-5EB708BBF089}|Lab08it_char\\Lab08it_char.vcxproj|solutionrelative:Lab08it_char\\Lab08it_char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:31:20.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab08it_char.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\Lab08it_char\\Lab08it_char.cpp",
+              "RelativeDocumentMoniker": "Lab08it_char\\Lab08it_char.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\source\\repos\\Lab08it_char\\Lab08it_char\\Lab08it_char.cpp",
+              "RelativeToolTip": "Lab08it_char\\Lab08it_char.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T13:50:31.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
